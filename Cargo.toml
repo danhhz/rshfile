@@ -1,0 +1,8 @@
+[package]
+name = "rshfile"
+version = "0.1.0"
+authors = ["Daniel Harrison <daniel.harrison@gmail.com>"]
+
+[dependencies]
+byteorder = "0.5.3"
+memmap = "0.4.0"
